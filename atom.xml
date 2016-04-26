@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Blog of Big Spatial Data]]></title>
+  <link href="http://lspatial.github.io/atom.xml" rel="self"/>
+  <link href="http://lspatial.github.io/"/>
+  <updated>2016-04-26T09:33:35-07:00</updated>
+  <id>http://lspatial.github.io/</id>
+  <author>
+    <name><![CDATA[Jacob Lee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Online Air Quality Retrieval]]></title>
+    <link href="http://lspatial.github.io/blog/2016/04/26/online-air-quality-retrieval/"/>
+    <updated>2016-04-26T09:32:21-07:00</updated>
+    <id>http://lspatial.github.io/blog/2016/04/26/online-air-quality-retrieval</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
